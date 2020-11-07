@@ -54,6 +54,8 @@ Resource types:
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝 🎁
 - [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties) 📝 🎁
 - [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/) 📹🎁
+- [Learn CSS](https://coursesity.com/best-tutorials-learn/css) 📹🎁 - Curated list of the best online CSS tutotrials
+
 
 ### 🏆 Exercises & Challenges to test out your knowledge on HTML and CSS 🏆
 
